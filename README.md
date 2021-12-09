@@ -8,7 +8,7 @@
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/blackeye
+https://github.com/HdYt12/blackeye-master.git
 cd blackeye
 bash blackeye.sh
 unzip sites.zip
