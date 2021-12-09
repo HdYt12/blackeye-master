@@ -1,6 +1,6 @@
 #!/bin/bash
 # BLACKEYE v1.0 is an upgrade from original ShellPhish Tool (https://github.com/thelinuxchoice/shellphish) by thelinuxchoice under GNU LICENSE 
-# Coded by: @thelinuxchoice (https://github.com/thelinuxchoice/blackeye)
+# Coded by: @m_hdayattt (https://github.com/HdYt12/blackeye-master)
 # Upgraded by: @suljot_gjoka (https://github.com/whiteeagle0/blackeye)
 
 
